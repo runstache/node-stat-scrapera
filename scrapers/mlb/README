@@ -1,0 +1,11 @@
+# MLB Stat Scrapers
+
+Scraper Scripts for retrieving statistic data from MLB.com for player, team and individual game boxscores.
+
+## Node Modules
+
+The following Node Modules are needed for retrieving the data:
+
+* Axios
+* Cheerio
+* Typescript
